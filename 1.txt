@@ -1,3 +1,7 @@
 11111
+<<<<<<< HEAD
 主干更改
 
+=======
+张三修改
+>>>>>>> parent of ea2f478... Merge branch 'lisi'
